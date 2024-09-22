@@ -648,7 +648,7 @@ do
 			status.isScanning = "getAll" -- used to prevent functions from running when we're not supposed to be scanning
 			status.callbackHandler = callbackHandler
 		
-			QueryAuctionItems("", 0, 0, 0, 0, 0, 0, 0, -1, true)
+			QueryAuctionItems("", nil, nil, 0, 0, 0, 0, 0, 0, true)
 			
 			scanFrame.num = 0
 			scanFrame.tries = 3

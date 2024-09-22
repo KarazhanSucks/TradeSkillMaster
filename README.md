@@ -1,3 +1,5 @@
+Whitemane Frostmourne Edit according to https://github.com/gamefreedomgit/Frostmourne/issues/1511#issuecomment-2308924985
+
 # TSM v2.8.3
 Backport of [TradeSkillMaster](https://www.tradeskillmaster.com/) for 3.3.5a
 
